@@ -6,7 +6,7 @@
     "lint": "eslint ./",
     "build": "webpack",
     "dev": "webpack-dev-server"
-  },
+   }
   "author": "Brandon Pierantoni",
   "license": "MIT",
   "devDependencies": {
